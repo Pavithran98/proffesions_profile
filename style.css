@@ -21,9 +21,14 @@ body {
   height: 50px;
   background: rgba(0,0,0,0.85);
   color: #ccc;
-  text-align: center;
+  text-align: left;
   line-height: 50px;
   font: 300 32px Comfortaa;
+}
+.twitter-follow-button{
+  float:right; 
+  margin-right: 90px;
+  margin-top: 13px
 }
 a {
   padding: 5px 10px;
