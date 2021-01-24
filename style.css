@@ -9,7 +9,7 @@ body {
   width: 100vw;
   height: 100vh;
   background: #e61919;
-  animation: color 30s linear infinite;
+  animation: color 100s linear infinite;
   user-select: none;
   position: absolute;
   z-index: 3;
@@ -40,7 +40,7 @@ a {
 }
 a:hover {
   background: #f39;
-  color: #fff;
+  color: #FC5632;
   border: 0;
 }
 .logo {
